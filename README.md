@@ -2,7 +2,7 @@
 3D-Multiplayer Space Shooting Game
 Dream BlackHole
 # Introduction
-In a distant galaxy, 42 light
+In a distant galaxy, 42 light\n
 years away, matter takes life.
 A system of Binary Stars are
 on a quest to become a
@@ -25,12 +25,10 @@ Do Panic.
 # How To Play:
 
 Player 1: Left & Right to Rotate the cannon.
-
-                     Enter to shoot Solar Pulse
+          Enter to shoot Solar Pulse
 
 Player 2: A & D to Rotate the cannon.
-
-                     Enter to shoot Solar Pulse
+          Enter to shoot Solar Pulse
 
 U to shoot Solar Flare
 
@@ -50,3 +48,10 @@ Made in India with love.
 
 # Install instructions
 Extract The .zip file and click on Proj to play.
+
+
+Status	Released
+Platforms	Windows
+Author	srijanjain
+Genre	Shooter, Action
+Tags	Multiplayer
