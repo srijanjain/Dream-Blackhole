@@ -42,9 +42,7 @@ Extract The .zip file and click on Proj to play.
 [Official Website](https://srijanjain.itch.io/dream-blackhole)
 - Status          :Released
 - Platforms       :Windows
-- Author          :Srijan Jain
 - Genre           :Shooter, Action
-- Tags            :Multiplayer
 
 _Made by Team GH-11 for IGS-2018 IIITD:_ 
 - Srijan Jain
