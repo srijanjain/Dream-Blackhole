@@ -3,25 +3,26 @@
 
 ## Introduction
 > In a distant galaxy, 42 light
+
 > years away, matter takes life.
 
-A system of Binary Stars are
+> A system of Binary Stars are
 
-on a quest to become a
+> on a quest to become a
 
-Blackhole before completion
+> Blackhole before completion
 
-of their lifetime by digesting
+> of their lifetime by digesting
 
-Broken down matter.
+> Broken down matter.
 
-Alas, the system is interrupted
+> Alas, the system is interrupted
 
-by space invaders for
+> by space invaders for
 
-harvesting quantum energy.
+> harvesting quantum energy.
 
-They need your help…
+> They need your help…
 
 ## Instructions:
 - The top bar represents mass of the star.
@@ -48,12 +49,12 @@ They need your help…
 ## Install instructions
 Extract The .zip file and click on Proj to play.
 
-
-- **Status          :Released
+[Official Website](https://srijanjain.itch.io/dream-blackhole)
+- Status          :Released
 - Platforms       :Windows
 - Author          :Srijan Jain
 - Genre           :Shooter, Action
-- Tags            :Multiplayer**
+- Tags            :Multiplayer
 
 _Made by Team GH-11 for IGS-2018 IIITD:_ 
 - Srijan Jain
