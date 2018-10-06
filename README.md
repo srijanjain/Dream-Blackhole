@@ -2,9 +2,8 @@
 3D-Multiplayer Space Shooting Game
 
 ## Introduction
-In a distant galaxy, 42 light
-
-years away, matter takes life.
+> In a distant galaxy, 42 light
+> years away, matter takes life.
 
 A system of Binary Stars are
 
@@ -42,12 +41,21 @@ They need your help…
 - A & D to Rotate the cannon.
 - Enter to shoot Solar Pulse
 
-U to shoot Solar Flare
+**U to shoot Solar Flare**
 
-**May the Force be with you**
+> May the Force be with you
 
-Made by Team GH-11 for IGS-2018 IIITD: 
+## Install instructions
+Extract The .zip file and click on Proj to play.
 
+
+- **Status          :Released
+- Platforms       :Windows
+- Author          :Srijan Jain
+- Genre           :Shooter, Action
+- Tags            :Multiplayer**
+
+_Made by Team GH-11 for IGS-2018 IIITD:_ 
 - Srijan Jain
 - Saurabh Sharma
 - Prashant 
@@ -56,14 +64,3 @@ Made by Team GH-11 for IGS-2018 IIITD:
 - Mayank Kumar
 
 **Made in India with love.**
-
-
-## Install instructions
-Extract The .zip file and click on Proj to play.
-
-
-**Status          :Released
-Platforms       :Windows
-Author          :Srijan Jain
-Genre           :Shooter, Action
-Tags            :Multiplayer**
