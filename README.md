@@ -2,27 +2,17 @@
 3D-Multiplayer Space Shooting Game
 
 ## Introduction
-> In a distant galaxy, 42 light
-
-> years away, matter takes life.
-
-> A system of Binary Stars are
-
-> on a quest to become a
-
-> Blackhole before completion
-
-> of their lifetime by digesting
-
-> Broken down matter.
-
-> Alas, the system is interrupted
-
-> by space invaders for
-
-> harvesting quantum energy.
-
-> They need your help…
+> In a distant galaxy, 42 light  
+> years away, matter takes life.  
+> A system of Binary Stars are  
+> on a quest to become a  
+> Blackhole before completion  
+> of their lifetime by digesting  
+> Broken down matter.  
+> Alas, the system is interrupted  
+> by space invaders for  
+> harvesting quantum energy.  
+> They need your help…  
 
 ## Instructions:
 - The top bar represents mass of the star.
